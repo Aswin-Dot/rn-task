@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-task",
+    "slug": "rn-task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-task"
+}
